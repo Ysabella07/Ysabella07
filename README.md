@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ysabella07
+- 👀 I’m interested in getting better at computer science.
+- 🌱 I’m currently learning Python.
